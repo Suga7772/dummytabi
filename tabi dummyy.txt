@@ -1,0 +1,15 @@
+configured email , user name 
+
+make a repository on github
+
+git clone 'repository web url'
+
+open the folder in vs code
+
+do your magic, programming hacking
+
+1) git add .
+2) git commit -m "insert msg here"
+3) git push
+
+tadaaah
